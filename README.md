@@ -1,5 +1,5 @@
 # BusinessIntelligenceAnalyst
-<h2>Analyzed data from PT Bank Muamalat TBK dataset<h2>
+<h2>Analyzed data from PT Bank Muamalat TBK dataset</h2>
 
 <p> HI! <P>
 <P> 
