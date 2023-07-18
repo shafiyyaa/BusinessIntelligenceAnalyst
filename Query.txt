@@ -1,0 +1,9 @@
+SELECT
+  customers.CustomerID,
+  customers.FirstName & ' ' & customers.LastName AS CustomerName,
+  [product category].CategoryName,
+  orders.ProdNumber,
+  orders.Quantity,
+  customers.CustomerState
+FROM
+  customers, orders, [product category];
